@@ -1,0 +1,29 @@
+{
+    "users" : {
+        "id": [1, 2, 3],
+        "email": ["ehua.kassi@gmail.com", "ehua.kassi@gmail.com", "ehua.kassi@gmail.com"],
+        "pubkey": ["FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn"],
+        "secret": ["","",""],
+        "expiration": ["","",""],
+        "created":["","",""],
+        "nft":["","",""],
+        "signature": ["","",""]
+    },
+    "tracks" : {
+        "id": [1, 2, 3],
+        "user_id":["FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn"],
+        "name": ["TrackA","TrackB","TrackC"],
+        "cover": ["TrackA","TrackB","TrackC"],
+        "music": ["TrackA","TrackB","TrackC"],
+        "streams":[10000, 5000, 200],  
+        "TotalPayments": [1, 1, 1],
+        "created":["","",""]
+    },
+    "transactions" : {
+        "id": [1, 2, 3],
+        "user_id":["FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn","FFc74CTPvA8ZtoKq64h6YaruYnizmEzNdwSMptTKPMpn"],
+        "signature":["","",""],
+        "created":["","",""]
+    }
+    
+}
